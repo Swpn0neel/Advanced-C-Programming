@@ -5,3 +5,5 @@ Some important C programs involving Data Structures and Algorithms
 3. Write a program to perform addition of two sparse matrices in 3 tuple form.
 4. Write a program to make a stack and define Push, Pop and Display functions.
 5. Write a program to add two polynomials.
+6. Write a program to check whether an infix expression is correct or not using stack.
+7. Write a program to change an infix expression to postfix expression by using stack.
